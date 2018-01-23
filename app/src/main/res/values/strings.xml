@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Map App</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">START LOCATION UPDATES</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+
+    <string name="google_maps_api_key">AIzaSyCpYPh2X5fgxekA8xJaU6YhHPJGwJ4fxU0</string>
+
+</resources>
